@@ -15,7 +15,7 @@ which annotations can be trusted, and what a usable ground truth would look like
 
 ## Contents
 
-- **[reort.pdf](InternshipReport-UKP_Dec2015_DicleOzturk)** — the internship report
+- **[report.pdf](InternshipReport-UKP_Dec2015_DicleOzturk)** — the internship report
 - **[presentation.pdf](InternshipFinalTalk-UKP_2015-12-08_fallacydetection-DicleOzturk.pdf)** — the final presentation slides 
 
 ## Notes
